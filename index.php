@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "use /dial.php?tel=#########";
